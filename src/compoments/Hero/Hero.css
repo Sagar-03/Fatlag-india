@@ -1,0 +1,9 @@
+.hero {
+    width: 100%;
+    min-height: 100vh;
+    background: linear-gradient(rgba(176, 177, 196, 0.7),rgba(146, 149, 187, 0.7)), url('../../assets/Hero1.jpeg');
+   background-size: cover;
+   background-position: center;
+   color: #fff;
+
+}
